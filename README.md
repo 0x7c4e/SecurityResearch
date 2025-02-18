@@ -9,4 +9,4 @@
 # Study
 | Protocol                   | Description                                                                                                                                                                          | Platform  | Findings | Reward | Report                                                                                                                                                   |
 | -------------------------  | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ------- | ------- |-------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| PasswordStore                  | Security & Identity | Updraft  | 2H, 1I | ... |[Report](https://github.com/0xewoma/audits/reports/2025-02-18-passwordstore-audit.pdf)  |
+| PasswordStore                  | Security & Identity | Updraft  | 2H, 1I | ... |[View Report](https://raw.githubusercontent.com/0xewoma/audits/main/reports/2025-02-18-passwordstore-audit.pdf) |
